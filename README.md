@@ -8,7 +8,7 @@
 
 ![](./structure.png)
 
-This project [PFLlib_VSP](https://github.com/heyuepeng/PFLlib_VSP) is based on the open source project [PFLlib](https://github.com/TsingZ0/PFLlib) development.
+This project [PFLlibVSP](https://github.com/heyuepeng/PFLlibVSP) is based on the open source project [PFLlib](https://github.com/TsingZ0/PFLlib) development.
 
 ## Environments
 Install [CUDA](https://developer.nvidia.com/cuda-11-6-0-download-archive). 
@@ -23,9 +23,9 @@ conda env create -f env_cuda_latest.yaml # You may need to downgrade the torch u
 
 - Create proper environments (see [Environments](#environments)).
 
-- Download [this project](https://github.com/heyuepeng/PFLlib_VSP) to an appropriate location using [git](https://git-scm.com/).
+- Download [this project](https://github.com/heyuepeng/PFLlibVSP) to an appropriate location using [git](https://git-scm.com/).
     ```bash
-    git clone https://github.com/heyuepeng/PFLlib_VSP.git
+    git clone https://github.com/heyuepeng/PFLlibVSP.git
     ```
 
 - Run evaluation: 
