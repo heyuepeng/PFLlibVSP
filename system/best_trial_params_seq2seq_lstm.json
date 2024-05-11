@@ -1,0 +1,7 @@
+{
+    "hidden_dim": 128,
+    "num_layers": 4,
+    "dropout": 0.01221158267767435,
+    "learning_rate": 0.007390454395109924,
+    "batch_size": 64
+}

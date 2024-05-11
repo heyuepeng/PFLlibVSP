@@ -1,0 +1,16 @@
+#!/bin/bash
+python generate_driving_data.py
+python generate_driving_fg2_data.py
+python generate_driving_fg3_data.py
+python generate_driving_fg4_data.py
+python generate_driving_fg24_data.py
+python generate_driving_fg34_data.py
+python generate_driving_fg234_data.py
+python generate_driving10_data.py
+python generate_driving10_fg2_data.py
+python generate_driving10_fg3_data.py
+python generate_driving10_fg4_data.py
+python generate_driving10_fg24_data.py
+python generate_driving10_fg34_data.py
+python generate_driving10_fg234_data.py
+echo "driving_data get successfully."

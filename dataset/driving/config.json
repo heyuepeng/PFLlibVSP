@@ -1,0 +1,57 @@
+{
+    "num_clients": 10,
+    "statistics": [
+        {
+            "client_id": 1,
+            "train_samples": 3140,
+            "test_samples": 786
+        },
+        {
+            "client_id": 2,
+            "train_samples": 3127,
+            "test_samples": 782
+        },
+        {
+            "client_id": 3,
+            "train_samples": 2946,
+            "test_samples": 737
+        },
+        {
+            "client_id": 4,
+            "train_samples": 2891,
+            "test_samples": 723
+        },
+        {
+            "client_id": 5,
+            "train_samples": 2893,
+            "test_samples": 724
+        },
+        {
+            "client_id": 6,
+            "train_samples": 2952,
+            "test_samples": 739
+        },
+        {
+            "client_id": 7,
+            "train_samples": 3011,
+            "test_samples": 753
+        },
+        {
+            "client_id": 8,
+            "train_samples": 2944,
+            "test_samples": 737
+        },
+        {
+            "client_id": 9,
+            "train_samples": 3081,
+            "test_samples": 771
+        },
+        {
+            "client_id": 10,
+            "train_samples": 2896,
+            "test_samples": 725
+        }
+    ],
+    "window_size": 5,
+    "prediction_window": 5
+}

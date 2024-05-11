@@ -1,0 +1,6 @@
+{
+    "hidden_dim": 128,
+    "num_layers": 2,
+    "dropout": 0.1311772620576747,
+    "learning_rate": 0.0022704306914651893
+}
